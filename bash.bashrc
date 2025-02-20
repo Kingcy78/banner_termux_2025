@@ -46,6 +46,8 @@ clear
 cd pap
 clear
 pip install time
+clear
+pip install requests
 clear 
 pip install colorama
 clear
